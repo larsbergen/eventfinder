@@ -1,1 +1,1 @@
-# eventfinder
+# GroupProject1
